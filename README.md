@@ -91,7 +91,6 @@ This process reduces the ripple content in the output waveform.
 
 **Figure 4:** Full wave bridge rectifier with filter
 
-## SIMULATION AND WAVEFORMS USING PROTEUS
 
 ## SIMULATION AND WAVEFORMS USING PROTEUS
 
